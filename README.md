@@ -1,2 +1,2 @@
 # SoftUni
-Excercises and exams from my journey in SoftUni
+Exercises and exams from my journey in SoftUni
